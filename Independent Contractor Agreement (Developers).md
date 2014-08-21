@@ -6,11 +6,19 @@ You, ``Client Name``(“Client” or “You”), with a principal place of busin
 
 ##What I agree to do:
 
-**1. Scope of Work.** The scope of my work for you is listed on Exhibit A to this Agreement. I will start working on this project within Number of days before start days after I receive a signed copy of this Agreement and fifty percent of the total payment from you. If the scope of work changes after we sign this Agreement, you and I agree to negotiate and sign an amended Exhibit A. 
+**1. Scope of Work.** The scope of my work for you is listed on Exhibit A to this Agreement. I will start working on this project within ``Number of days before start`` days after I receive a signed copy of this Agreement and ``fifty`` percent of the total payment from you. If the scope of work changes after we sign this Agreement, you and I agree to negotiate and sign an amended Exhibit A. 
 
 **2. Project Milestones.** We have agreed that I will work on this project in phases. Exhibit B to this Agreement lists the milestones that we’ve agreed will apply to each phase of my work for you. If the scope of work changes after we sign this Agreement, you and I agree to negotiate and sign an amended Exhibit B. 
 
-**3. Final Deliverables.** I will deliver to you, via email, within Delivery timeframe days after you approve the final deliverable(s), digital files containing my work for you under this Agreement. Specifically, I will provide you with the following: 
+**3a. Final Files.** I will deliver to you, via electronic mail (or a downloadable hyperlink), within Delivery Time days after you approve the final design(s), digital files containing the final design(s), in the following format(s):
+
+``List and description of deliverables``
+
+	Here, you should specify the file formats you’ll include. You should include formats that your clients will be able to easily view (such as .png, .jpg or .pdf) and vectorized formats that they’ll need (such as .eps or .ai). If you will be including printed work, you should specifically list it here, as well as any other deliverables that you will be expected to provide to the Client
+
+
+
+**3b. Final Deliverables.** I will deliver to you, via ``email``, within ``Delivery timeframe`` days after you approve the final deliverable(s), digital files containing my work for you under this Agreement. Specifically, I will provide you with the following: 
 
 ``Describe final deliverables``
 
@@ -30,6 +38,17 @@ You, ``Client Name``(“Client” or “You”), with a principal place of busin
 
 **6. Pay Me For My Work.** You promise to pay me the total sum (“Fee”) of $``Price`` (U.S. Dollars) in two payments. ``Fifty`` percent of the Fee will be due when you and I sign this Agreement and before I begin. The remaining ``fifty`` percent of the Fee will be due immediately before I send you final files containing the software you approved. Payment will be made using cheque.  If you ask me to use any third-party content (such as stock photos or third party software that must be incorporated in the software I am creating for you), you promise to pay me the actual cost of licensing that third-party content for work under this Agreement. You agree that until you pay me in full, you will not acquire the rights or license to use or transfer ownership of any software that I create for you under this Agreement.
 
+	Here, you’ll want to specifically state how payment will be made. For example, the Client could pay via PayPal, Moneybookers, by check, etc. You should also state who will pay for the transactional costs for making the payment.
+	
+####Rates
+| Task       | Description                      | Rate / Hr |
+| :--------- | :--------------------------------| ---------:|
+| HTML       | markup and content insertion     |       $25 |
+| CSS        | styling, formatting, layout      |       $30 |
+| Javascript | front-end scripting              |       $35 |
+| PHP        | Server side or database requests |       $35 |
+
+
 **7. Pay Me For Extra Work.** I agree that the Fee you owe me will cover in full all of the work listed in **Paragraph 1/Exhibit A** of this Agreement. You agree that if you ask me to make changes or do other work for you that is not covered by this Agreement, you’ll pay me an hourly rate of $``Developer hourly rate`` per hour and this payment will be in addition to all other amounts you owe me under this Agreement. You also agree that if you ask me to do work outside the scope of this Agreement, I may have extra time to send you the final files.
 
 **8. Feedback and Acceptance.** You agree that I cannot complete my work for you or meet the milestones to which we’ve agreed unless you give me timely feedback. You agree to provide timely feedback so that I can understand your concerns, objections or corrections, and you promise not to unreasonably withhold acceptance of the deliverables I’ll provide you at each milestone. 
@@ -39,8 +58,8 @@ We’ve agreed to the following acceptance process: I will test the software tha
 When I deliver the final files to you and complete my work for you under this Agreement, you agree that you’ll test the software in its entirety to determine if I completed the work I promised you. You promise to let me know in writing within fifteen (15) calendar days after I deliver the final files whether you accept or reject the final files. If you reject the final files, I will correct any errors and again ask you to accept or reject the corrected deliverable – which you promise to do within ``fifteen (15) calendar days`` after you receive the corrected deliverable. This process shall continue until you accept the deliverable or 15 calendar days have passed and you have not accepted or rejected a deliverable (at which point it will be deemed accepted). Finally, you agree that my work on this project will be complete and the Agreement will end after you’ve approved the final files.  
   
   
-**9. You Have Rights To The Client Content.** You promise that: (a) You own the rights to use anything you give me (“Client Content”); and (b) using such Client Content does not violate the patent, copyright, trade secret or other property right of any person, firm or entity. You grant me a nonexclusive, nontransferable license to use, reproduce, modify, display and publish the Client Content solely in connection with my work for you under this Agreement and my limited promotional uses as allowed by this Agreement. You also affirm and represent that this Agreement does not conflict with any other contract, agreement or understanding to which you are a party.  
-  
+**9. You Have Rights To The Client Content.** You promise that: (a) You own the rights to use anything you give me (“Client Content”); and (b) using such Client Content does not violate the patent, copyright, trade secret or other property right of any person, firm or entity. You grant me a nonexclusive, nontransferable license to use, reproduce, modify, display and publish the Client Content solely in connection with my work for you under this Agreement and my limited promotional uses as allowed by this Agreement. You also affirm and represent that this Agreement does not conflict with any other contract, agreement or understanding to which you are a party.
+
 
 ##What rights each of us will have
 
@@ -85,44 +104,34 @@ After you pay me in full, I grant you a nonexclusive, fully paid, worldwide, roy
 
 **17. I Am An Independent Contractor.** You agree that I am an independent contractor and not your employee. Although you will provide general direction to me, I will determine, in my sole discretion, the manner and ways in which I will create the ``software`` for you. The work that I create for you under this Agreement will not be deemed a **“work-for-hire”**, as that term is defined under U.S. Copyright Law. Whatever rights I grant you are contained in this Agreement. 
 
+
+
  By signing, you and I agree: (a) to all of the terms and conditions of this Agreement and (b) that we have the full authority to enter into this Agreement. The Agreement is immediately effective upon signing.
 
 
 ---
 
 	
-| Designer's signature                       | Date       | Client's signature                    | Date       |
-| :----------------------------------------- | :--------- |:--------------------------------------| :--------- |
-| **>**_____________________________________ | __________ | **>**________________________________ | __________ |
-| Name: ________________________________     | __________ | Name:                                 |            |
-| Address: ______________________________ |            | Address:                              |            |
-| E-mail: ________________________________|            | E-mail:                               |            |
+| Designer's signature                  | Date       | Client's signature                    | Date       |
+| :------------------------------------ | :--------- | :------------------------------------ | :--------- |
+| **>**________________________________ | __________ | **>**________________________________ | __________ |
+| Name:                                 |            | Name:                                 |            |
+| Address:                              |            | Address:                              |            |
+| E-mail:                               |            | E-mail:                               |            |
 | Phone:                                |            | Name:                                 |            |
 
 
 ---
 ##EXIBIT A
 ###Statement of Work
- 
 
 	Here, you should list what you’ll do, how many different concepts/comps you’ll provide if design is included as part of your work, what and how many changes you’ll make. In this section, you want to fully define the scope of the project, including any planning time. For example, if you’ll be doing both front-end and back-end development website work, clearly define what you will/will not be doing. Pay particular attention to portions of the work that will be performed by third parties and be very clear about whether the Client or you will manage the work of those third parties. Also be very clear about ancillary services, such as installation and/or deployment of code to a webserver or hosting provider, submission of an application to the Apps Store, etc.
-
----
-
- 
 
 ##EXIBIT B
  
 
 ###Milestones
 	Here, you should list what goals you will aim to reach and at what set intervals. This will provide a loose timeline of smaller deliverables that the client will review and sign off on before proceeding.
-	
-| Task       | Description  | Rate / Hr |
-| :--------- | :------------| ---------:|
-| HTML       | markup and content insertion | $25 |
-| CSS        | styling, formatting, layout | $30 |
-| Javascript | front-end scripting | $35 |
-| PHP        | Server side or database requests |  $35
 
 ---
 ####Credits
