@@ -94,7 +94,10 @@ After you pay me in full, I grant you a nonexclusive, fully paid, worldwide, roy
 | Designer's signature                  | Date       | Client's signature                    | Date       |
 | :------------------------------------ | :--------- |:--------------------------------------| :--------- |
 | **>**________________________________ | __________ | **>**________________________________ | __________ |
-| Name: ||  Name: ||
+| Name:                                 |            | Name:                                 |            |
+| Address:                              |            | Address:                              |            |
+| E-mail:                               |            | E-mail:                               |            |
+| Phone:                                |            | Name:                                 |            |
 
 
 ---
