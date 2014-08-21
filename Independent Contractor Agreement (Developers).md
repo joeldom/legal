@@ -89,7 +89,15 @@ After you pay me in full, I grant you a nonexclusive, fully paid, worldwide, roy
 
 
 ---
- 
+
+	
+| Designer's signature                  | Date       | Client's signature                    | Date       |
+| :------------------------------------ | :--------- |:--------------------------------------| :--------- |
+| **>**________________________________ | __________ | **>**________________________________ | __________ |
+| Name: ||  Name: ||
+
+
+---
 ##EXIBIT A
 ###Statement of Work
  
@@ -106,7 +114,13 @@ After you pay me in full, I grant you a nonexclusive, fully paid, worldwide, roy
 ###Milestones
 	Here, you should list what goals you will aim to reach and at what set intervals. This will provide a loose timeline of smaller deliverables that the client will review and sign off on before proceeding.
 	
-	| Name | Description          |
-| ------------- | ----------- |
-| Help      | Display the help window.|
-| Close     | Closes a window     |
+| Task       | Description  | Rate / Hr |
+| :--------- | :------------| ---------:|
+| HTML       | markup and content insertion | $25 |
+| CSS        | styling, formatting, layout | $30 |
+| Javascript | front-end scripting | $35 |
+| PHP        | Server side or database requests |  $35
+
+---
+####Credits
+[link](https://www.docracy.com/0pqaqvgdhps/independent-contractor-agreement-designers)
