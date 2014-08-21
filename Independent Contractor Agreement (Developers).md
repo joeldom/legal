@@ -1,9 +1,11 @@
+
+#Indie Contract Agreement
 You, ``Client Name``(“Client” or “You”), with a principal place of business at ``Client Address`` have asked me, ``Developer Name`` (“Developer” or “I”), with a principal place of business at ``Developer Address``, to create a custom ``software/web app`` for you. This is our Agreement for this project:
 
  
 
-What I agree to do:
----
+##What I agree to do:
+
 **1. Scope of Work.** The scope of my work for you is listed on Exhibit A to this Agreement. I will start working on this project within Number of days before start days after I receive a signed copy of this Agreement and fifty percent of the total payment from you. If the scope of work changes after we sign this Agreement, you and I agree to negotiate and sign an amended Exhibit A. 
 
 **2. Project Milestones.** We have agreed that I will work on this project in phases. Exhibit B to this Agreement lists the milestones that we’ve agreed will apply to each phase of my work for you. If the scope of work changes after we sign this Agreement, you and I agree to negotiate and sign an amended Exhibit B. 
@@ -16,16 +18,16 @@ What I agree to do:
 
  
 
-What I promise you:
----
+##What I promise you:
+
 **4.  Original Work/Conflicts/Confidentiality.** I promise that, except for anything that you give me to incorporate into the software I will create for you: **(a)** my work will be original and will not be copied in whole or in part from any other work; **(b)** I am the sole and exclusive owner of all intellectual property rights, including patent, copyright, trade secret and other proprietary rights in and to the software I create for you, or I have secured such rights to any third-party content incorporated into my final code; and **(c)** my work does not violate the patent, copyright, trade secret or other property right of any person, firm or entity. I promise that this Agreement does not conflict with any other contract, agreement or understanding to which I am a party. Finally, I promise that I’ll hold and maintain in strict confidence any confidential information that you provide me (such as proprietary technical or business information), and I will not disclose such information to any third party except as may be required by a court or governmental authority. 
 
 **5. Training.** The Fee you’ll pay me for this project includes ``Number of training hours`` hours of training in the use of the software I create for you. Training will be conducted remotely using a screen sharing software. If you ask me to train you onsite, you agree to pay my actual costs of traveling to your location, including but not limited to transportation, lodging, and food expenses.
 
  
 
-What you promise me:
----
+##What you promise me:
+
 **6. Pay Me For My Work.** You promise to pay me the total sum (“Fee”) of $``Price`` (U.S. Dollars) in two payments. ``Fifty`` percent of the Fee will be due when you and I sign this Agreement and before I begin. The remaining ``fifty`` percent of the Fee will be due immediately before I send you final files containing the software you approved. Payment will be made using cheque.  If you ask me to use any third-party content (such as stock photos or third party software that must be incorporated in the software I am creating for you), you promise to pay me the actual cost of licensing that third-party content for work under this Agreement. You agree that until you pay me in full, you will not acquire the rights or license to use or transfer ownership of any software that I create for you under this Agreement.
 
 **7. Pay Me For Extra Work.** I agree that the Fee you owe me will cover in full all of the work listed in **Paragraph 1/Exhibit A** of this Agreement. You agree that if you ask me to make changes or do other work for you that is not covered by this Agreement, you’ll pay me an hourly rate of $``Developer hourly rate`` per hour and this payment will be in addition to all other amounts you owe me under this Agreement. You also agree that if you ask me to do work outside the scope of this Agreement, I may have extra time to send you the final files.
@@ -37,12 +39,11 @@ We’ve agreed to the following acceptance process: I will test the software tha
 When I deliver the final files to you and complete my work for you under this Agreement, you agree that you’ll test the software in its entirety to determine if I completed the work I promised you. You promise to let me know in writing within fifteen (15) calendar days after I deliver the final files whether you accept or reject the final files. If you reject the final files, I will correct any errors and again ask you to accept or reject the corrected deliverable – which you promise to do within ``fifteen (15) calendar days`` after you receive the corrected deliverable. This process shall continue until you accept the deliverable or 15 calendar days have passed and you have not accepted or rejected a deliverable (at which point it will be deemed accepted). Finally, you agree that my work on this project will be complete and the Agreement will end after you’ve approved the final files.  
   
   
-**9. You Have Rights To The Client Content.** You promise that: (a) You own the rights to use anything you give me (“Client Content”); and **(b)** using such Client Content does not violate the patent, copyright, trade secret or other property right of any person, firm or entity. You grant me a nonexclusive, nontransferable license to use, reproduce, modify, display and publish the Client Content solely in connection with my work for you under this Agreement and my limited promotional uses as allowed by this Agreement. You also affirm and represent that this Agreement does not conflict with any other contract, agreement or understanding to which you are a party.  
+**9. You Have Rights To The Client Content.** You promise that: (a) You own the rights to use anything you give me (“Client Content”); and (b) using such Client Content does not violate the patent, copyright, trade secret or other property right of any person, firm or entity. You grant me a nonexclusive, nontransferable license to use, reproduce, modify, display and publish the Client Content solely in connection with my work for you under this Agreement and my limited promotional uses as allowed by this Agreement. You also affirm and represent that this Agreement does not conflict with any other contract, agreement or understanding to which you are a party.  
+  
 
- 
+##What rights each of us will have
 
-What rights each of us will have
----
 **10. Rights Before You Pay Me In Full.** You understand and agree that until you pay me in full, I own full rights to everything I create for you under this Agreement. If you don’t pay me in full, you agree that I can complete, exhibit, use and sell the software at my sole and absolute discretion (except that I will not be able to use Client Content in such work). 
 
 **11. Rights After You Pay Me In Full.**
@@ -104,3 +105,8 @@ After you pay me in full, I grant you a nonexclusive, fully paid, worldwide, roy
 
 ###Milestones
 	Here, you should list what goals you will aim to reach and at what set intervals. This will provide a loose timeline of smaller deliverables that the client will review and sign off on before proceeding.
+	
+	| Name | Description          |
+| ------------- | ----------- |
+| Help      | Display the help window.|
+| Close     | Closes a window     |
