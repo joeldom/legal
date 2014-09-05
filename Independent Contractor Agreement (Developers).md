@@ -1,5 +1,5 @@
 
-#Indie Contract Agreement
+#Independent Contractor Agreement
 You, ``Client Name``(“Client” or “You”), with a principal place of business at ``Client Address`` have asked me, ``Developer Name`` (“Developer” or “I”), with a principal place of business at ``Developer Address``, to create a custom ``software/web app`` for you. This is our Agreement for this project:
 
  
@@ -10,7 +10,8 @@ You, ``Client Name``(“Client” or “You”), with a principal place of busin
 
 **2. Project Milestones.** We have agreed that I will work on this project in phases. Exhibit B to this Agreement lists the milestones that we’ve agreed will apply to each phase of my work for you. If the scope of work changes after we sign this Agreement, you and I agree to negotiate and sign an amended Exhibit B. 
 
-**3a. Final Files.** I will deliver to you, via electronic mail (or a downloadable hyperlink), within Delivery Time days after you approve the final design(s), digital files containing the final design(s), in the following format(s):
+**3a. Final Files.** I will deliver to you, via electronic mail (or a downloadable hyperlink)[^one], within Delivery Time days after you approve the final design(s), digital files containing the final design(s), in the following format(s):
+[^one]: Possible options for this would be Dropbox, Mega, Google Drive etc...
 
 ``List and description of deliverables``
 
@@ -41,15 +42,16 @@ You, ``Client Name``(“Client” or “You”), with a principal place of busin
 	Here, you’ll want to specifically state how payment will be made. For example, the Client could pay via PayPal, Moneybookers, by check, etc. You should also state who will pay for the transactional costs for making the payment.
 	
 ####Rates
-| Task       | Description                      | Rate / Hr |
-| :--------- | :--------------------------------| ---------:|
-| HTML       | markup and content insertion     |       $25 |
-| CSS        | styling, formatting, layout      |       $30 |
-| Javascript | front-end scripting              |       $35 |
-| PHP        | Server side or database requests |       $35 |
+| Task       | Description                       | Rate / Hr |
+| :--------- | :---------------------------------| ---------:|
+| HTML       | markup and content insertion      |       $25 |
+| CSS        | styling, formatting, layout       |       $30 |
+| Javascript | front-end scripting               |       $35 |
+| PHP        | Server side or database requests  |       $35 |
+| Design     | Image asset adjustment & creation | $35
 
 
-**7. Pay Me For Extra Work.** I agree that the Fee you owe me will cover in full all of the work listed in **Paragraph 1/Exhibit A** of this Agreement. You agree that if you ask me to make changes or do other work for you that is not covered by this Agreement, you’ll pay me an hourly rate of $``Developer hourly rate`` per hour and this payment will be in addition to all other amounts you owe me under this Agreement. You also agree that if you ask me to do work outside the scope of this Agreement, I may have extra time to send you the final files.
+**7. Pay Me For Extra Work.** I agree that the Fee you owe me will cover in full all of the work listed in **Paragraph 1/Exhibit A** of this Agreement. You agree that if you ask me to make changes or do other work for you that is not covered by this Agreement, you’ll pay me an hourly rate of $``Developer hourly rate`` per hour and this payment will be in addition to all other amounts you owe me under this Agreement. You also agree that if you ask me to do work outside the scope of this Agreement, I may need extra time to send you the final files and that they will be assessed at an hourly rate determined by .
 
 **8a. You Promise To Provide Feedback.** You agree that I cannot send you final files unless you give me timely feedback and approve the final proofs I’ll send you. You agree to provide timely feedback so that I can understand your concerns, objections or corrections to the design(s). I agree to listen to your feedback and make changes to the design(s) in response to your feedback. You promise not to unreasonably withhold acceptance of the final design(s). Finally, you agree that my work on this project will be complete and the Agreement will end after I deliver to you final files containing the final design(s) that you’ve approved.
 
@@ -116,13 +118,23 @@ After you pay me in full, I grant you a nonexclusive, fully paid, worldwide, roy
 ---
 
 	
-| Designer's signature                  | Date       | Client's signature                    | Date       |
-| :------------------------------------ | :--------- | :------------------------------------ | :--------- |
-| **>**________________________________ | __________ | **>**________________________________ | __________ |
-| Name:                                 |            | Name:                                 |            |
-| Address:                              |            | Address:                              |            |
-| E-mail:                               |            | E-mail:                               |            |
-| Phone:                                |            | Name:                                 |            |
+| Designer's/Dev signature              | Date            | Client's signature                    | Date            |
+| :------------------------------------ | :-------------- | :------------------------------------ | :-------------- |
+| **>**________________________________ | _______________ | **>**________________________________ | _______________ |
+
+
+| Dev/Designer Name         |    _________________________________| Client Name           |      _________________________________|
+| :-------------------------|-------------------------------------| :---------------------|---------------------------------------|
+| **Designer/Dev signature**|**>**________________________________| **Agency's signature**|  **>**________________________________|
+
+
+
+| Dev/Designer Name ________________________________ | Client Name _______________________________________|
+| :------------------------------------------------- | :------------------------------------------------- |
+| Address:                                           | Address:                                           |
+| E-mail:                                            | E-mail:                                            |
+| Phone:                                             | Phone:                                             |
+| Primary Contact:                                   | Primary Contact:                                   |
 
 
 ---
@@ -138,5 +150,6 @@ After you pay me in full, I grant you a nonexclusive, fully paid, worldwide, roy
 	Here, you should list what goals you will aim to reach and at what set intervals. This will provide a loose timeline of smaller deliverables that the client will review and sign off on before proceeding.
 
 ---
+
 ####Credits
 Docracy "Independent Contractor Agreement (Developers)" & "Independent Contractor Agreement (Designers)" [Docracy contract](https://www.docracy.com/0pqaqvgdhps/independent-contractor-agreement-designers)
